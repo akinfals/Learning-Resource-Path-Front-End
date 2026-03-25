@@ -134,6 +134,7 @@ Resource types:
 - [BEM: A New Front-End Methodology](https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/) 📝 🎁
 - [BEM - Full Introduction to the BEM Methodology](https://www.toptal.com/css/introduction-to-bem-methodology) 📝
 - [CSS Mega Cheat Sheet](https://makeawebsitehub.com/css3-mega-cheat-sheet/) 📝🎁
+- [Anchoreum](https://anchoreum.com/) 🎮 🎁
 
 ### JavaScript
 
@@ -154,6 +155,8 @@ Resource types:
 - [Commenting JavaScript code with JSDoc](https://www.eventbrite.com/engineering/commenting-javascript-code-with-jsdoc/) 📝 🎁
 - [Introduction to Functional Programming in JavaScript](https://medium.com/the-andela-way/introduction-to-functional-programming-in-javascript-1e7118545618) 📝 🎁
 - [Functional Programming and Function Chaining in JavaScript](https://medium.com/@gertienyesh/functional-programming-and-function-chaining-in-javascript-76628d3cf1f5) 📝 🎁
+- [Disarray](https://codepip.com/games/disarray/) 🎮 💰
+- [Regex Machina](https://codepip.com/games/regex-machina/) 🎮 💰
 
 ### React
 
